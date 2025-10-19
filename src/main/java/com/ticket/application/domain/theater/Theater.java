@@ -2,7 +2,6 @@ package com.ticket.application.domain.theater;
 
 import com.ticket.application.domain.audience.Audience;
 import com.ticket.application.domain.seller.TicketSeller;
-import com.ticket.application.domain.ticket.Ticket;
 
 public class Theater {
     private TicketSeller ticketSeller;
